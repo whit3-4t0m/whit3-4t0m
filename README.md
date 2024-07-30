@@ -1,4 +1,1 @@
-## Hi there 👋
-
-[![At0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsol05&count private=true&show icons=true&theme=radical&hide rank=false)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=IT+Student+%F0%9F%96%A5%EF%B8%8F+)](https://git.io/typing-svg)<br>
