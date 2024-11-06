@@ -2,7 +2,7 @@
 
  ## Mes Compétences
 ```
-- Programmation: Python, HTML, CSS, SQL
+- Programmation: Python, HTML, CSS, SQL, Bash
 - Réseaux : TCP, UDP, TLS, UDP, DHCP, Routing( IPv4, IPv6), Wireshark, Packet Tracer 
 
 ```
